@@ -1,0 +1,16 @@
+{
+  "name": "centroverde",
+  "version": "1.0.0",
+  "description": "Projeto sobre Sustentabilidade no centro de Joinville",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webdesign",
+    "projeto",
+    "conclusão"
+  ],
+  "author": "Silas Tristoni, Fausto Toloi,",
+  "license": "ISC"
+}
